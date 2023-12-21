@@ -7,12 +7,12 @@
 
 ---
 
-**My score :** ``
+**My score :** `0.94705/1`
 
-**Rank :**
+**Rank :** `53/714`
 
-**Leaderborad :**
+**Leaderborad :** [Link](https://www.kaggle.com/competitions/taxi-fare-guru-total-amount-prediction-challenge/leaderboard)
 
-**Notebook :**
+**Notebook :** [Link](https://)
 
 ---
