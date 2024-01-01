@@ -15,6 +15,6 @@
 
 **Leaderborad :** [Link](https://www.kaggle.com/competitions/taxi-fare-guru-total-amount-prediction-challenge/leaderboard)
 
-**Notebook :** [Link](https://)
+**Notebook :** [Link](https://www.kaggle.com/code/iitm21f1000886/21f1000886-notebook-t32023)
 
 ---
